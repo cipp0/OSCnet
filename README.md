@@ -1,8 +1,9 @@
-### ╔═╗╔═╗╔═╗┌┐┌┌─┐┌┬┐
-### ║ ║╚═╗║  │││├┤  │
-### ╚═╝╚═╝╚═╝┘└┘└─┘ ┴
+╔═╗╔═╗╔═╗┌┐┌┌─┐┌┬┐
+║ ║╚═╗║  │││├┤  │
+╚═╝╚═╝╚═╝┘└┘└─┘ ┴
 #### Server per broadcasting di messaggi OSC via WAN diviso in gruppi
 ‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
+
 Progetto basato sulla libreria C++ OSCGroups di Ross Bencina
 
 **Istruzioni per connettersi:**
