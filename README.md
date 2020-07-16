@@ -1,4 +1,4 @@
-# OSCnet
+![OSCnet01 logo](/oscnet01.png)
 
 #### Server per broadcasting di messaggi OSC via WAN diviso in gruppi
 
