@@ -1,10 +1,10 @@
 ![OSCnet01 logo](/oscnet01.png)
 
-#### Server per broadcasting di messaggi OSC via WAN diviso in gruppi (MacOS only)
+#### Client per broadcasting di messaggi OSC via WAN diviso in gruppi (MacOS only)
 
 Progetto basato sulla libreria C++ OSCGroups di Ross Bencina
 
-**Istruzioni per connettersi:**
+**Istruzioni per connettersi al server di BitNet01:**
 
 - Avvia l’applicazione OSCnet.app
 - Inserisci il tuo username
