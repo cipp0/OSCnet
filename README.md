@@ -1,6 +1,5 @@
-╔═╗╔═╗╔═╗┌┐┌┌─┐┌┬┐
-║ ║╚═╗║  │││├┤  │
-╚═╝╚═╝╚═╝┘└┘└─┘ ┴
+# OSCnet
+
 #### Server per broadcasting di messaggi OSC via WAN diviso in gruppi
 ‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
 
