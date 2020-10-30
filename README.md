@@ -44,8 +44,7 @@ Per disconnetterti dal server basta chiudere la shell del terminale
 ## ENG
 #### Client for broadcasting of OSC messages via WAN divided into groups (MacOS only)
 
-Project based on Ross Bencina's C ++ OSCGroups library
-
+Project based on Ross Bencina's C ++ [OSCGroup Library](https://github.com/RossBencina/oscgroups)
 **Instructions to connect to the BitNet01 server:**
 
    - Start the OSCnet.app application
