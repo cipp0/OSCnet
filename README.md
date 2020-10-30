@@ -30,7 +30,7 @@ Dove ```il.mio.ip.privato``` sta per la sequenza di numeri che compongono il mio
 - Apri una qualsiasi applicazione che ha implementato il protocollo OSC
 (Ad esempio Max/MSP, PureData, CSound o SuperCollider)
 
-- Invia i messaggi OSC all’indirizzo: localhost (oppure 127.0.0.1) alla porta 8087
+- Invia i messaggi OSC all’indirizzo: localhost (oppure 127.0.0.1) alla porta 8088
 
 - Ricevi i messaggi OSC da parte di tutti gli utenti collegati all’indirizzo:
 localhost (oppure 127.0.0.1) alla porta 8089
@@ -69,7 +69,7 @@ Where ```my.private.IP``` stands for the sequence of numbers that make up my pri
 **Instructions for sending and receiving OSC messages:**
 
 - Open any application that has implemented the OSC protocol (For example Max / MSP, PureData, CSound or SuperCollider)
-- Send OSC messages to the address: localhost (or 127.0.0.1) on port 8087
+- Send OSC messages to the address: localhost (or 127.0.0.1) on port 8088
 - Receive OSC messages from all users connected to the address: localhost (or 127.0.0.1) to port 8089
 
 In the repository you find a sample patch in Max / MSP
