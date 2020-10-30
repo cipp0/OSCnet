@@ -3,7 +3,7 @@
 
 #### Client per broadcasting di messaggi OSC via WAN diviso in gruppi (MacOS only)
 
-Progetto basato sulla libreria C++ OSCGroups di Ross Bencina
+Progetto basato sulla libreria C++ OSCGroups di [Ross Bencina](https://github.com/RossBencina/oscgroups)
 
 **Istruzioni per connettersi al server di BitNet01:**
 
